@@ -1,4 +1,3 @@
-
 # Co SSH.
 
   SSH client for generators.
@@ -27,7 +26,6 @@ yield c.exec('bar');
 yield c.exec('baz');
 ...
 ```
-
 
 
 
