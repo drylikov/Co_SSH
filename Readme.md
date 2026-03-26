@@ -47,4 +47,3 @@ yield c.exec('baz');
 
 
 
-
