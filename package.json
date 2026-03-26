@@ -1,0 +1,21 @@
+
+{
+  "name": "co_ssh",
+  "version": "0.0.1",
+  "repository": "drylikov/co_ssh",
+  "description": "SSH for generators with co",
+  "keywords": [
+    "ssh",
+    "co",
+    "generators"
+  ],
+  "dependencies": {
+    "ssh2": "~0.2.14"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "co": "~3.0.0"
+  },
+  "license": "MIT"
+}
